@@ -131,9 +131,9 @@ Vibe coding是 AI 编程的升级版 → 在这里，您不太关心生成的代
   💡
 
 
-  ![img/image.png](img/image.png)
+  ![img/image.png](https://raw.githubusercontent.com/yepYoung/aicode-compass/main/img/image.png)
 
-  ![img/image.png](img/image%201.png)
+  ![img/image.png](https://raw.githubusercontent.com/yepYoung/aicode-compass/main/img/image1.png)
 
   </aside>
 
