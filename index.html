@@ -1,1 +1,9 @@
-xx
+<div id="content"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  fetch('https://raw.githubusercontent.com/你的用户名/仓库名/main/README.md')
+    .then(res => res.text())
+    .then(text => {
+      document.getElementById('content').innerHTML = marked.parse(text);
+    });
+</script>
